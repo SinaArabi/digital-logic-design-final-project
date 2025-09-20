@@ -134,5 +134,5 @@ vvp build/p3.out
 ---
 
 ## License
+This project is for educational purposes. You are free to use and modify it.  
 
-Choose any license you prefer (e.g., MIT). A placeholder `LICENSE` file can be added.
